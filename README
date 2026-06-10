@@ -19,8 +19,5 @@ The included Power BI file explores the following core concepts:
 2. **Dashboard Optimization:** Combining two visuals into one to save screen real estate while enhancing analytical depth.
 3. **Correlation Tracking:** Quickly spotting anomalies or correlations between absolute numbers and relative percentages.
 
-## 👨‍💻 About the Author
-**Hassan Ibrahim Sayed** *Statistics Student | Data Analyst* Pursuing a Bachelor of Science in Statistics at Cairo University with a strong foundation in predictive modeling, hypothesis testing, and quantitative analysis. Experienced in leveraging tools like Power BI, Tableau, SQL, and Python (Pandas) to bridge the gap between complex mathematical concepts and practical business strategy.
-
 ---
 *Note: To view the interactive elements, data models, and DAX formulas, please download the `.pbix` file and open it using Power BI Desktop.*
